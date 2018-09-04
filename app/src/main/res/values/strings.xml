@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PromProducts</string>
+    <string name="action_аll_goods">Все товары</string>
+    <string name="action_for_kitchen">Для кухни</string>
+    <string name="action_clothing">Одежда</string>
+    <string name="action_childens_goods">Детские товары</string>
+    <string name="action_household_goods">Хозяйственые товары</string>
+    <string name="title_activity_main">ListView with JSON From URL</string>
+    <string name="str_iv_flag">Flag</string>
+</resources>

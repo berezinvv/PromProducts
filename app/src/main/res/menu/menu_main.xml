@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_аll_goods"
+        android:orderInCategory="100"
+        android:title="@string/action_аll_goods"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_for_kitchen"
+        android:orderInCategory="100"
+        android:title="@string/action_for_kitchen"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_clothing"
+        android:orderInCategory="100"
+        android:title="@string/action_clothing"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_childens_goods"
+        android:orderInCategory="100"
+        android:title="@string/action_childens_goods"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_household_goods"
+        android:orderInCategory="100"
+        android:title="@string/action_household_goods"
+        app:showAsAction="never"/>
+</menu>
